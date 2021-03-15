@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">Happy Birthday</string>
-    <string name="happy_birthday_text">Happy Birthday Dijon!</string>
+    <string name="app_name">Happy Birthday Card App</string>
+    <string name="happy_birthday_text">
+        Congratulation for finish more one challenge on kotlin language using Constraint layout, imageView and textView.
+    </string>
     <string name="from">From Braga</string>
     <string name="image_cake">Image cake main</string>
 </resources>
